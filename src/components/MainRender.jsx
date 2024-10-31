@@ -1,6 +1,6 @@
 import { OrbitControls } from "@react-three/drei";
 
-export const Experience = () => {
+export const MainRender = () => {
   return (
     <>
       <OrbitControls />
